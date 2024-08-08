@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const localHost = "http://localhost:3001";
+const localHost = "https://recipesapp-api.onrender.com";
 
 export function loading() {
     return { type: "LOADING" }
