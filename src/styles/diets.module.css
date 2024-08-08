@@ -1,0 +1,46 @@
+.Diets {
+    margin-top: 0px;
+    padding: 70px 20px 20px 20px;
+    text-align: left;
+}
+
+.Diets p {
+    margin: 10px 0px 0px 0px;
+}
+
+.diet {
+    margin-bottom: 30px;
+}
+
+.Diets h3 {
+    color: #C21010;;
+    align-items: center;
+    font-weight: 400;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.button {
+    width: 100px;
+    margin: 0px;
+    background-color: #C21010;
+    border: none;
+    border-radius: 5px;
+    height: 25px;
+    color: white;
+    padding: 3px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: #efefef;
+    border: 2px  #C21010 solid;
+    color: #C21010;
+}
+

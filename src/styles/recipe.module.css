@@ -1,0 +1,34 @@
+.container {
+    border: 2px #C21010 solid;
+    height: 540px;
+    width: 310px;
+    padding: 15px;
+    row-gap: 10px;
+}
+
+.image { 
+    height: 250px; 
+}
+  
+.title {
+    color: #C21010;
+    align-items: center;
+    text-Decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    font-style: italic;
+  
+}
+
+.subTitle {
+    margin: 6px 0px 6px 0px;
+    color: black;
+    align-items: center;
+    text-Decoration: none;
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.p {
+    margin: 2px;
+}
